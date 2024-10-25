@@ -1,9 +1,9 @@
 ## Olá sou o Caina, Estudante de Programação 👋
 
 - 🔭 Estudando logica
-- 🌱 Estudante de python
+- 🌱 Espero que goste dos meus projetos
 - ⚡ Dando meu melhor
-- Tanta coisa para eu gostar, fui gostar logo de programar
+- Uma das melhores coisas da minha vida é aprender sempre
 
 <h2 align="left">About me</h2>
 
@@ -25,6 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
 ###
@@ -44,6 +46,5 @@
 <img src="https://raw.githubusercontent.com/caina150909/caina150909/output/snake.svg" alt="Snake animation" />
 
 ###
-
 
 
