@@ -1,6 +1,6 @@
 ## Olá sou o Caina, Estudante de Programação 👋
 
-- 🔭 Estudando logica
+- 🔭 Programador Python, Front-end, Back-end
 - 🌱 Espero que goste dos meus projetos
 - ⚡ Dando meu melhor
 - Uma das melhores coisas da minha vida é aprender sempre
